@@ -1,7 +1,7 @@
 # ssh-key-server-add
 Script that add SSH keys into servers.
 
-[![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://github.com/tomeksdev/ssh-key-server-add/releases)
+[![GitHub release](https://img.shields.io/badge/release-v1.0.0.-informational)](https://github.com/tomeksdev/ssh-key-server-add/releases/tag/v1.0.0)
 
 ## Nedded to change
 We need only to fill or change two files in this configuration:
