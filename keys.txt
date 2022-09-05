@@ -1,0 +1,2 @@
+ssh-rsa key_secret username@pc-name
+ssh-rsa key_secret username@pc-name
