@@ -62,5 +62,3 @@ OR
 - Add all keys from keys.txt file to all servers reading servers.txt files
 - Old ssh keys must be deleted on each server to run the script again
 - If the keys.txt file does not exist or is empty, the script will not run
-
-Translated with www.DeepL.com/Translator (free version)
