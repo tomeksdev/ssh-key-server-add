@@ -1,7 +1,7 @@
 # ssh-key-server-add
 Script that adds multiple SSH keys to multiple servers.
 
-[![GitHub release](https://img.shields.io/badge/release-v1.1.0-informational)](https://github.com/tomeksdev/ssh-key-server-add/releases/tag/v1.1.0)
+[![GitHub release](https://img.shields.io/badge/release-v1.1.0-succes)](https://github.com/tomeksdev/ssh-key-server-add/releases/tag/v1.1.0)
 
 ## Instructions
 To download this script, click [THIS LINK](https://github.com/tomeksdev/ssh-key-server-add/releases/download/v1.1.0/Import_SSH_Keys.tar.gz) or follow the commands below.
@@ -50,7 +50,7 @@ OR
 ## Vesrions
 
 #### version v1.1.0
-[![GitHub release](https://img.shields.io/badge/release-v1.1.0-informational)](https://github.com/tomeksdev/ssh-key-server-add/releases/tag/v1.1.0)
+[![GitHub release](https://img.shields.io/badge/release-v1.1.0-success)](https://github.com/tomeksdev/ssh-key-server-add/releases/tag/v1.1.0)
 - The script now checks on each server whether the file authorized_keys exists
 - It now checks if the key from the keys.txt file exists in the authorized_keys file, and skips it in this case
 - It checks if the file servers.txt exists or is empty
@@ -58,7 +58,7 @@ OR
 - Create nicer echo on the console
 
 #### Version v1.0.0
-[![GitHub release](https://img.shields.io/badge/release-v1.0.0-informational)](https://github.com/tomeksdev/ssh-key-server-add/releases/tag/v1.0.0)
+[![GitHub release](https://img.shields.io/badge/release-v1.0.0-9cf)](https://github.com/tomeksdev/ssh-key-server-add/releases/tag/v1.0.0)
 - Add all keys from keys.txt file to all servers reading servers.txt files
 - Old ssh keys must be deleted on each server to run the script again
 - If the keys.txt file does not exist or is empty, the script will not run
